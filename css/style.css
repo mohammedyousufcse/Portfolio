@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    background: url("/portfolio-/css/images/PictureUnlock_TOI_91118.pictureunlock.jpg") center/cover no-repeat fixed;
+    position: absolute;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+    position: relative;
+    top: 17rem;
+}
+
+hr{
+    position: relative;
+    width: 300px;
+    top: 17.5rem;
+    left: 25px;
+
+}
+
+.main{
+    color: white;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 45%;
+    top: 95%;
+    padding: 10px;
+    letter-spacing: 1px;
+    border-left: 2px solid white;
+    
+}
+
+h2,h3{
+    padding: 10px 0px 10px 0px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+button{
+    padding:15px 0px 15px 0px;
+    width: 80%;
+    border-style: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: medium;
+    font-weight: bold;
+    transition: 0.5s;
+    
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
